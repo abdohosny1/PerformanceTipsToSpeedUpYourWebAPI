@@ -1,0 +1,6 @@
+@MyPerformanceTipsToSpeedUpYourWebAPI_HostAddress = http://localhost:5267
+
+GET {{MyPerformanceTipsToSpeedUpYourWebAPI_HostAddress}}/employees/
+Accept: application/json
+
+###
